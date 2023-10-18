@@ -32,7 +32,8 @@ Testing the webserver
 
 type your code here
 # OUTPUT:
-![webserver](images/webserver1.png)
+![webserver]![webserver1](https://github.com/Lokhnath10/Web_server/assets/138969918/ebb80a64-4e4e-48f5-8154-ebd4fd71fae7)
+
 # RESULT:
 
 The program is executed succesfully
