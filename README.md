@@ -1,6 +1,7 @@
 # Developing a Simple Webserver
 Name: Lokhnath.J 
 Ref: 23004865
+dept: AIML
 
 # AIM:
 
@@ -28,9 +29,10 @@ Serving the HTML pages.
 
 Testing the webserver
 # PROGRAM:
-Type your code here
-# OUTPUT:
 
+type your code here
+# OUTPUT:
+![webserver](images/webserver1.png)
 # RESULT:
 
 The program is executed succesfully
