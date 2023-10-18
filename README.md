@@ -29,6 +29,7 @@ Serving the HTML pages.
 
 Testing the webserver
 # PROGRAM:
+``````
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
 content = """
@@ -42,7 +43,6 @@ content = """
 <h2>3.React<h2>
 </body>
 </html>
-"""
 class HelloHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.send_response(200)
@@ -56,11 +56,9 @@ server_address = ('', 80)
 httpd = HTTPServer(server_address, HelloHandler)
 httpd.serve_forever()
 
-
+``````
 # OUTPUT:
-
-![webserver](images/webserver1.png)
-
+![webserver][webserver1](https://github.com/Lokhnath10/Web_server/assets/138969918/ebb80a64-4e4e-48f5-8154-ebd4fd71fae7)
 # RESULT:
 
 The program is executed succesfully
