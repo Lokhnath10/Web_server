@@ -58,7 +58,8 @@ httpd.serve_forever()
 
 ``````
 # OUTPUT:
-![webserver][webserver1](https://github.com/Lokhnath10/Web_server/assets/138969918/ebb80a64-4e4e-48f5-8154-ebd4fd71fae7)
+![webserver]![webserver](https://github.com/Lokhnath10/Web_server/assets/138969918/7cb0e6f8-6a3b-42db-9db6-a59b74332ed1)
+
 # RESULT:
 
 The program is executed succesfully
